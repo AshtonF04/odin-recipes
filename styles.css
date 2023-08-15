@@ -1,0 +1,28 @@
+html {
+    background-color: #242424;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h2, p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: large;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    margin:auto;
+    padding-left: 30%;
+    padding-right: 30%;
+}
